@@ -12,7 +12,6 @@
 Estudante apaixonado por tecnologias e desafios!!!
 
 ### Últimos projetos:
-- [Gerador de hashes - Python](https://github.com/Leinad4/Security_with_Python/tree/main/gerador_de_hashes)<br/>
 - [Analisador de ping - Python](https://github.com/Leinad4/Python-Desafios/tree/main/Analise_de_ping)<br/>
 - [Cifra de César - Python](https://github.com/Leinad4/Python-Desafios/tree/main/Cifra_Cesar)
 
