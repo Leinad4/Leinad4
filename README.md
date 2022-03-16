@@ -6,7 +6,7 @@
 ### Tecnologias:
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=red" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=red" />
+  
 </div><br/>
 
 Estudante apaixonado por tecnologias e desafios!!!
